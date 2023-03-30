@@ -70,3 +70,8 @@ find this information from the Etherscan explorer.
 https://etherscan.io/address/0xdac17f958d2ee523a2206206994597c13d831ec7
 
 Look under Events -> Transfer.
+
+==================
+
+NOTE: There is an 'abis' folder in the root of the project. The abi file was placed
+here. You can add your abi file here as well, or choose another folder location.
